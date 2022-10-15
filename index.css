@@ -8,8 +8,8 @@ html {
   flex-direction: column;
 }
 body {
-  background-color: #f5f6f8;
-  color: #3b3b3b;
+  background-color: #160707;
+  color: white;
   font-size: 14px;
   font-weight: 300;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
@@ -71,14 +71,14 @@ h5 {
   margin-bottom: 4px;
 }
 h6 {
-  color: #3b3b3b;
+  color: #ffffff;
   font-size: 16px;
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 4px;
 }
 a {
-  color: #194b7d;
+  color: #ff0000;
   text-decoration: none;
 }
 
@@ -107,7 +107,7 @@ footer a {
 
 .pageContainer {
   padding: 30px 50px;
-  background-color: #fff;
+  background-color: #260f0f;
   box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.06);
   border-radius: 5px;
   max-width: 900px;
@@ -122,7 +122,7 @@ footer a {
 }
 
 .headline span {
-  background-color: #f5f6f8;
+  background-color: #260f0f;
   border-radius: 5px;
   padding: 6px;
   margin-left: 12px;
@@ -137,7 +137,7 @@ footer a {
 }
 
 .statusContainer {
-  border: 1px solid #ededed;
+  border: 1px solid #260f0f;
   border-radius: 5px;
   padding-top: 20px;
   text-align: left;
@@ -145,7 +145,7 @@ footer a {
 }
 
 .statusContainer + .statusContainer {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #260f0f;
   margin-top: 30px;
 }
 
@@ -228,7 +228,7 @@ footer a {
 }
 
 .nodata {
-  background-color: #f8f8f8;
+  background-color: #3e1f1f;
   color: #ccc;
 }
 
@@ -238,10 +238,10 @@ footer a {
 }
 
 .tooltip {
-  background-color: #fff;
+  background-color: #261313;
   box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.12);
   border-radius: 4px;
-  color: #3b3b3b;
+  color: #ffffff;
   font-size: 12px;
   line-height: 18px;
   padding: 16px;
@@ -265,7 +265,7 @@ footer a {
 
 .tooltip .tooltipDateTime {
   font-size: 12px;
-  color: #7c7c7c;
+  color: #ffffff;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -278,7 +278,7 @@ footer a {
 .tooltip .tooltipDescription {
   margin-top: 12px;
   font-size: 14px;
-  color: #181818;
+  color: #ffffff;
 }
 
 .tooltip #tooltipStatus {
@@ -292,7 +292,7 @@ footer a {
 
 .tooltip hr {
   border: none;
-  border-top: 1px solid #ededed;
+  border-top: 1px solid #261313;
   margin-top: 16px;
 }
 
